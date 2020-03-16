@@ -32,7 +32,7 @@ def reverse_array(array)
   array.reverse
 end
 
-reverse_array(["chayan", "maria", "antionette"])
+reverse_array(["Mike", "Charlie", "Afton"])
 
 def kesha_maker(array)
   array.each do |item|
