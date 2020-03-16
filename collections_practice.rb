@@ -48,7 +48,7 @@ def find_a(array)
   end
 end
 
-find_a(["apple", "string", "rock", "avis", "length", "andere" ])
+find_a(["un", "do", "tre", "qua", "boom", "ayee" ])
 
 def sum_array(array)
    array.inject(:+)
