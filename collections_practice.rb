@@ -40,7 +40,7 @@ def kesha_maker(array)
   end
 end
 
-kesha_maker(["chayan", "maria", "antionette"])
+kesha_maker(["dime", "queloque", "contigo"])
 
 def find_a(array)
   array.find_all do |word|
