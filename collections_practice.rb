@@ -26,7 +26,7 @@ def swap_elements(array)
   array
 end
 
-swap_elements(["chayan", "maria", "antionette"])
+swap_elements(["Yurrr", "Pacman", "Freddy Fazzbear"])
 
 def reverse_array(array)
   array.reverse
